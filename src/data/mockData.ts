@@ -401,17 +401,17 @@ export const OFFICIAL_TIMELINE: TimelineItem[] = [
   {
     time: '20:00',
     stageName: 'HỒI I',
-    description: 'NGẠ QUỶ — MA ĐÓI'
+    description: 'MA LON'
   },
   {
     time: '20:30',
     stageName: 'HỒI II',
-    description: 'TIỂU QUỶ — MA LON'
+    description: 'MA DA'
   },
   {
     time: '21:00',
     stageName: 'HỒI III',
-    description: 'LỆ QUỶ — HỒNG BÀO'
+    description: 'MA ĐÓI'
   },
   {
     time: '21:30',

@@ -202,9 +202,9 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({ onNavigate }) => {
           18:30 — BƯỚC QUA RANH GIỚI
           19:00 — LẠC VÀO CÕI ÂM
           19:30 — LINH HỒN CỦA ĐẠI TIỆC (Vở kịch tâm linh)
-          20:00 — HỒI I: NGẠ QUỶ — MA ĐÓI
-          20:30 — HỒI II: TIỂU QUỶ — MA LON
-          21:00 — HỒI III: LỆ QUỶ — HỒNG BÀO
+          20:00 — HỒI I: MA LON
+          20:30 — HỒI II: MA DA
+          21:00 — HỒI III: MA ĐÓI
           21:30 — THỨC TỈNH TÂM LINH
           ========================================================================= */}
       <section id="timeline" className="py-20 px-4 sm:px-6 lg:px-8 bg-[#080808] relative border-b border-[#C9A24A]/25">
